@@ -1,0 +1,3 @@
+# Frontend — Streamlit UI for Banking AI-Agent (Lab 4)
+streamlit>=1.32,<2.0
+requests>=2.31,<3.0

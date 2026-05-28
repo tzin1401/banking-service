@@ -1,0 +1,6 @@
+# Intent Service — gRPC microservice for intent detection
+grpcio>=1.62,<2.0
+grpcio-tools>=1.62,<2.0
+requests>=2.31,<3.0
+pydantic>=2.6,<3.0
+pydantic-settings>=2.2,<3.0
