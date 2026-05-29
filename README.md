@@ -14,6 +14,16 @@ An intelligent Banking Customer Support AI-Agent built with a **microservice arc
   <img src="architecture_diagram.png" alt="System Architecture Diagram" width="800"/>
 </p>
 
+### 🎥 Demo Video
+
+You can watch the full system demonstration video showing the end-to-end customer chat experience, intent classification via gRPC, and the agentic workflow execution on Google Drive:
+
+<p align="center">
+  <a href="https://drive.google.com/drive/u/0/folders/1FI9MJKpIsRpe2YVVhv9R78WaHfmVvKQq" target="_blank">
+    <img src="https://img.shields.io/badge/Watch%20Demo%20Video-Google%20Drive-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Watch Demo Video" />
+  </a>
+</p>
+
 The system consists of **3 containerized microservices** orchestrated via Docker Compose:
 
 | Service | Technology | Port | Description |
